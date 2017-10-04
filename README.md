@@ -32,7 +32,7 @@ Mon projet professionnel, c'est de **réaliser des projets numériques** de valo
     <link href="style.css" rel="stylesheet" style="text/css">
     <link href="style2.css" rel="stylesheet" style="text/css">
   </head>
-
+<body>
     
     <h1>The Best Burger</h1>
     <h2>Only $9.99</h2>
@@ -82,7 +82,7 @@ Mon projet professionnel, c'est de **réaliser des projets numériques** de valo
       <div class="plate">
       </div>
   
-
+</body>
 
 
 
