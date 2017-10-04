@@ -45,11 +45,11 @@ input[type=text] {
   width: 50%;
   height: 60%;
   padding: 2%;
-  color: white;
+  color: black;
 }
 
 input[type=radio] {
-  color: white;
+  color: black;
 }
 
 textarea {
