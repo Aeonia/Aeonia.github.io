@@ -33,12 +33,12 @@ Mon projet professionnel, c'est de **réaliser des projets numériques** de valo
     <link href="style2.css" rel="stylesheet" style="text/css">
   </head>
 
-<body>
     
     <h1>The Best Burger</h1>
     <h2>Only $9.99</h2>
 
-    <form>
+    <form action="https://formspree.io/anna.cathelineau@gmail.com"
+      method="POST">
     <div class="burger">
       <div class="bun-top">
         <p>Pour me recruter,<br>
@@ -47,17 +47,17 @@ Mon projet professionnel, c'est de **réaliser des projets numériques** de valo
       </div>
       <div class="cheese">
         Mail:
-        <input type="text" name="Mail">
+        <input type="text" name="mail">
       </div>
       <div class="tomato">
       </div>
       <div class="cheese">
         Nom:
-        <input type="text" name="Nom">
+        <input type="text" name="nom">
       </div>
       <div class="cheese">
         Prénom:
-        <input type="text" name="Prénom">
+        <input type="text" name="prenom">
       </div>
       <div class="onion"></div>
       <div class="meatball">
@@ -81,9 +81,7 @@ Mon projet professionnel, c'est de **réaliser des projets numériques** de valo
       </div>
       <div class="plate">
       </div>
-    </div>
   
-  </body>
 
 
 
