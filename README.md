@@ -31,7 +31,7 @@ Mon projet professionnel, c'est de **réaliser des projets numériques** de valo
     <title>Build-a-Burger</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="ingredients.css">
+    <link rel="stylesheet" href="style2.css">
   </head>
   <body>
     
