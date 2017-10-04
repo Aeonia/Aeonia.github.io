@@ -26,3 +26,69 @@ Je veux developper des compétences en developpement **Fullstack** en me concent
 ## Demain
 
 Mon projet professionnel, c'est de **réaliser des projets numériques** de valorisation et médiation pour des **institutions culturelles** publiques ou privées.
+
+  <head>
+    <title>Build-a-Burger</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="ingredients.css">
+  </head>
+  <body>
+    
+    <h1>The Best Burger</h1>
+    <h2>Only $9.99</h2>
+
+    <!-- 
+    Rearrange the elements below to make your own custom burger. 
+    Change ingredient colors in the "ingredients.css" file.
+    -->
+    <form>
+    <div class="burger">
+      <div class="bun-top">
+        <p>Pour me recruter,<br>
+        remplissez ce formulaire !
+        </p>
+      </div>
+      <div class="cheese">
+        Mail:
+        <input type="text" name="Mail">
+      </div>
+      <div class="tomato">
+      </div>
+      <div class="cheese">
+        Nom:
+        <input type="text" name="Nom">
+      </div>
+      <div class="cheese">
+        Prénom:
+        <input type="text" name="Prénom">
+      </div>
+      <div class="onion"></div>
+      <div class="meatball">
+        <input type="radio" name="gender" value="Femme" checked> Femme</div>
+      <div class="meatball">
+        <input type="radio" name="gender" value="Homme" checked> Homme
+      </div>
+      <div class="meatball">
+        <input type="radio" name="gender" value="Autre" checked> Indéfini
+      </div>
+      <div class="pickle"></div>
+      <div class="patty">
+        <textarea name="message" rows="10" cols="30">
+          Votre message.
+        </textarea> 
+      </div>
+      <div class="bun-bottom">
+        <input type="submit" value="Submit">
+        <p>Merci et à bientôt !</p>
+
+      </div>
+      <div class="plate">
+      </div>
+    </div>
+  
+  </body>
+
+
+
+
