@@ -7,10 +7,12 @@
 }
 
 .cheese {
-  height: 32px;
+  height: 28px;
   width: 65%;
   background: #f2c120;
   border-bottom: solid 2px rgba(0,0,0,.1);
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
 }
 
 .tomato {
@@ -18,10 +20,11 @@
   width: 50%;
   background-color: #dd3710;
   border-bottom: solid 2px rgba(0,0,0,.1);
+  border-radius: 5px;
 }
 
 .meatball {
-  height: 60px;
+  height: 65px;
   width: 70px;
   background: #74380d;
   border-radius: 50px;
@@ -46,9 +49,10 @@
 }
 
 .onion {
-  width: 40%;
+  width: 45%;
   background-color: #a039bf;
   border-top: dotted 20px rgba(255,255,255,.2);
+  border-radius: 5px;
 }
 
 .bun-bottom {
