@@ -2,6 +2,13 @@
 permalink: index.html
 ---
 
+  <head>
+    <title>Build-a-Burger</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style2.css">
+  </head>
+
 # username 
 Anna
 
@@ -27,12 +34,7 @@ Je veux developper des compétences en developpement **Fullstack** en me concent
 
 Mon projet professionnel, c'est de **réaliser des projets numériques** de valorisation et médiation pour des **institutions culturelles** publiques ou privées.
 
-  <head>
-    <title>Build-a-Burger</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="style2.css">
-  </head>
+
   <body>
     
     <h1>The Best Burger</h1>
