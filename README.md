@@ -2,12 +2,6 @@
 permalink: index.html
 ---
 
-  <head>
-    <title>Build-a-Burger</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="style2.css">
-  </head>
 
 # username 
 Anna
@@ -33,17 +27,17 @@ Je veux developper des compétences en developpement **Fullstack** en me concent
 ## Demain
 
 Mon projet professionnel, c'est de **réaliser des projets numériques** de valorisation et médiation pour des **institutions culturelles** publiques ou privées.
+  
+<head>
+    <link href="style.css" rel="stylesheet" style="text/css">
+    <link href="style2.css" rel="stylesheet" style="text/css">
+  </head>
 
-
-  <body>
+<body>
     
     <h1>The Best Burger</h1>
     <h2>Only $9.99</h2>
 
-    <!-- 
-    Rearrange the elements below to make your own custom burger. 
-    Change ingredient colors in the "ingredients.css" file.
-    -->
     <form>
     <div class="burger">
       <div class="bun-top">
