@@ -37,7 +37,7 @@ Mon projet professionnel, c'est de **réaliser des projets numériques** de valo
     <h1>The Best Burger</h1>
     <h2>Only $9.99</h2>
 
-    <form action="https://formspree.io/anna.cathelineau@gmail.com"
+   <form action="https://formspree.io/anna.cathelineau@gmail.com"
       method="POST">
     <div class="burger">
       <div class="bun-top">
@@ -81,6 +81,7 @@ Mon projet professionnel, c'est de **réaliser des projets numériques** de valo
       </div>
       <div class="plate">
       </div>
+    </form>
   
 </body>
 
