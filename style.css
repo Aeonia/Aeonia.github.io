@@ -64,5 +64,10 @@ p {
 }
 
 label {
-  color: white
+  color: white;
+}
+
+section {
+  background: lightgrey;
+    height: 100 vw;
 }
