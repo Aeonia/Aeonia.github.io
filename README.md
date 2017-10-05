@@ -1,4 +1,5 @@
 ---
+layout: page
 permalink: index.html
 ---
 
@@ -30,5 +31,57 @@ Mon projet professionnel, c'est de **réaliser des projets numériques** de valo
   
 Pour me contacter rendez-vous [ici](burger.html)
 
+<section>
 
+   <form action="https://formspree.io/anna.cathelineau@gmail.com"
+      method="POST">
+    <div class="burger">
+      <div class="bun-top">
+        <p>Pour me recruter,<br>
+        remplissez ce formulaire !
+        </p>
+      </div>
+      <div class="cheese">
+        Mail:
+        <input type="text" name="mail">
+      </div>
+      <div class="tomato">
+      </div>
+      <div class="cheese">
+        Nom:
+        <input type="text" name="nom">
+      </div>
+      <div class="cheese">
+        Prénom:
+        <input type="text" name="prenom">
+      </div>
+      <div class="onion"></div>
+      <div class="meatball">
+        <input type="radio" name="gender" value="Femme" checked> 
+          <label for="femme">Femme</label>
+        </div>
+      <div class="meatball">
+        <input type="radio" name="gender" value="Homme" checked> 
+          <label for="homme">Homme</label>
+      </div>
+      <div class="meatball">
+        <input type="radio" name="gender" value="Autre" checked> 
+          <label for="autre">Indéfini</label>
+      </div>
+      <div class="pickle"></div>
+      <div class="patty">
+        <textarea name="message" rows="10" cols="30">
+          Votre message.
+        </textarea> 
+      </div>
+      <div class="bun-bottom">
+        <input type="submit" value="Submit">
+        <p>Merci et à bientôt !</p>
+
+      </div>
+      <div class="plate">
+      </div>
+    </form>
+
+</section>
 
