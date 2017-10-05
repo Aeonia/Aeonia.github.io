@@ -81,6 +81,7 @@ Pour me contacter rendez-vous [ici](burger.html)
       </div>
       <div class="plate">
       </div>
+        </div>
     </form>
 
 </section>
