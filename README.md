@@ -87,6 +87,6 @@ Pour me contacter rendez-vous [ici](burger.html)
 </section>
 
 
-https://wireframe.cc/xx1nDJ
+https://wireframe.cc/xx1nDJ <img src="maquette.png"> 
 
 
