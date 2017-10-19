@@ -26,7 +26,7 @@ Je veux developper des compétences en developpement **Fullstack** en me concent
 
 Mon projet professionnel, c'est de **réaliser des projets numériques** de valorisation et médiation pour des **institutions culturelles** publiques ou privées.
 
-Pour me contacter rendez-vous [ici](burger.html) 
+Pour me contacter rendez-vous [ici](burger.html) <br>
 Ou juste en dessous ↓↓ 
 
 
