@@ -10,9 +10,7 @@ permalink: index.html
 ## Qui suis-je ?
 
 Je m'appelle Anna Cathelineau.
-
 Je suis passionnée par le **numérique** et son utilisation dans l'**art**.
-
 Je suis très *enthousiaste* et *travailleuse* mais aussi un peu trop *utopiste*.
 
 ## Mon parcours
@@ -22,14 +20,14 @@ J'ai d'abord acquis une **expertise dans le domaine de l'art** et de la **gestio
 ## Aujourd'hui
 
 Je suis actuellement en formation chez Simplon car je souhaite pouvoir développer des *sites web* et des *applications* par moi-même.
-
 Je veux developper des compétences en developpement **Fullstack** en me concentrant particulièrement sur le **Backend** en **PHP**.
 
 ## Demain
 
 Mon projet professionnel, c'est de **réaliser des projets numériques** de valorisation et médiation pour des **institutions culturelles** publiques ou privées.
-  
-Pour me contacter rendez-vous [ici](burger.html)
+
+Pour me contacter rendez-vous [ici](burger.html) 
+Ou juste en dessous ↓↓ 
 
 <section>
 
@@ -87,6 +85,6 @@ Pour me contacter rendez-vous [ici](burger.html)
 </section>
 
 
-https://wireframe.cc/xx1nDJ <img src="maquette.png"> 
+ [maquette de la prochaine version](https://wireframe.cc/xx1nDJ) <img src="maquette.png"> 
 
 
