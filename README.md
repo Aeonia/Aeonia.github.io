@@ -3,23 +3,24 @@ layout: page
 permalink: index.html
 ---
 
-
+<p style="text-align:right";>
 # Anna Cathelineau 
 
 
 ## Qui suis-je ?
 
-Je m'appelle Anna Cathelineau.
-Je suis passionnée par le **numérique** et son utilisation dans l'**art**.
-Je suis très *enthousiaste* et *travailleuse* mais aussi un peu trop *utopiste*.
+Je m'appelle Anna Cathelineau.<br>
+Je suis passionnée par le **numérique** et son utilisation dans l'**art**.<br>
+Je suis très *enthousiaste* et *travailleuse* mais aussi un peu trop *utopiste*.<br>
 
 ## Mon parcours
 
-J'ai d'abord acquis une **expertise dans le domaine de l'art** et de la **gestion de projets culturels** j'ai notamment réalisé un service civique entant qu'assistante expositions et communication à la Fondation HCB. C'est en découvrant l'utilisation du numérique dans des dispositifs artistiques et à des fins de médiation que je me suis dirigée vers la formations en développement web de Simplon.
+J'ai d'abord acquis une **expertise dans le domaine de l'art** et de la **gestion de projets culturels** j'ai notamment réalisé un service civique entant qu'assistante expositions et communication à la Fondation HCB.<br>
+C'est en découvrant l'utilisation du numérique dans des dispositifs artistiques et à des fins de médiation que je me suis dirigée vers la formations en développement web de Simplon.
 
 ## Aujourd'hui
 
-Je suis actuellement en formation chez Simplon car je souhaite pouvoir développer des *sites web* et des *applications* par moi-même.
+Je suis actuellement en formation chez Simplon car je souhaite pouvoir développer des *sites web* et des *applications* par moi-même.<br>
 Je veux developper des compétences en developpement **Fullstack** en me concentrant particulièrement sur le **Backend** en **PHP**.
 
 ## Demain
@@ -28,6 +29,8 @@ Mon projet professionnel, c'est de **réaliser des projets numériques** de valo
 
 Pour me contacter rendez-vous [ici](burger.html) 
 Ou juste en dessous ↓↓ 
+
+</p>
 
 <section>
 
@@ -85,6 +88,8 @@ Ou juste en dessous ↓↓
 </section>
 
 
- [maquette de la prochaine version](https://wireframe.cc/xx1nDJ) <img src="maquette.png"> 
+
+ [Maquette de la prochaine version](https://wireframe.cc/xx1nDJ), sortie prévue fin octobre 2017.
+ <img src="maquette.png"> 
 
 
