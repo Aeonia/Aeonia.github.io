@@ -34,14 +34,14 @@ h2 {
 .list-social-icons a {
   color: #495057; }
   .list-social-icons a:hover {
-    color: #11657a; }
+    color: #1c979b; }
   .list-social-icons a .fa-lg {
     font-size: 1.75rem; }
 
 .list-icons {
   font-size: 3rem; }
   .list-icons .list-inline-item i:hover {
-    color: #11657a; }
+    color: #1c979b; }
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
@@ -79,7 +79,7 @@ h2 {
           #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
             display: block; } }
 section.resume-section {
-  background-image: url('../img/concrete-texture.png');
+  background-image: url("../img/concrete-texture.png");
   border-bottom: 1px solid #dee2e6;
   padding-top: 5rem !important;
   padding-bottom: 5rem !important; }
@@ -96,14 +96,14 @@ section.resume-section {
     padding-top: 3rem !important;
     padding-bottom: 3rem !important; } }
 .bg-primary {
-  background-color: #11657a !important; }
+  background-color: #1c979b !important; }
 
 .text-primary {
-  color: #11657a !important; }
+  color: #1c979b !important; }
 
 a {
-  color: #11657a; }
+  color: #1c979b; }
   a:hover, a:focus, a:active {
-    color: #082d37; }
+    color: #10585a; }
 
 /*# sourceMappingURL=resume.css.map */
