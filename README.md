@@ -1,94 +1,71 @@
----
-layout: page
-permalink: index.html
----
+# [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
 
-# Anna Cathelineau 
+[Resume](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
 
+## Preview
 
-## Qui suis-je ?
+[![Resume Preview](https://startbootstrap.com/assets/img/templates/resume.jpg)](https://blackrockdigital.github.io/startbootstrap-resume/)
 
-Je m'appelle Anna Cathelineau.<br>
-Je suis passionnée par le **numérique** et son utilisation dans l'**art**.<br>
-Je suis très *enthousiaste* et *travailleuse* mais aussi un peu trop *utopiste*.
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
-## Mon parcours
+## Status
 
-J'ai d'abord acquis une **expertise dans le domaine de l'art** et de la **gestion de projets culturels** j'ai notamment réalisé un service civique entant qu'assistante expositions et communication à la Fondation HCB.<br>
-C'est en découvrant l'utilisation du numérique dans des dispositifs artistiques et à des fins de médiation que je me suis dirigée vers la formations en développement web de Simplon.
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-resume/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-resume.svg)](https://www.npmjs.com/package/startbootstrap-resume)
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-resume.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-resume)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-resume/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-resume/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume?type=dev)
 
-## Aujourd'hui
+## Download and Installation
 
-Je suis actuellement en formation chez Simplon car je souhaite pouvoir développer des *sites web* et des *applications* par moi-même.<br>
-Je veux developper des compétences en developpement **Fullstack** en me concentrant particulièrement sur le **Backend** en **PHP**.
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/resume/)
+* Install via npm: `npm i startbootstrap-resume`
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-resume.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-resume)
 
-## Demain
+## Usage
 
-Mon projet professionnel, c'est de **réaliser des projets numériques** de valorisation et médiation pour des **institutions culturelles** publiques ou privées.
+### Basic Usage
 
-Pour me contacter rendez-vous [ici](burger.html) <br>
-Ou juste en dessous ↓↓ 
+After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
+### Advanced Usage
 
-<section>
+After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
-   <form action="https://formspree.io/anna.cathelineau@gmail.com"
-      method="POST">
-    <div class="burger">
-      <div class="bun-top">
-        <p>Pour me recruter,<br>
-        remplissez ce formulaire !
-        </p>
-      </div>
-      <div class="cheese">
-        Mail:
-        <input type="text" name="mail">
-      </div>
-      <div class="tomato">
-      </div>
-      <div class="cheese">
-        Nom:
-        <input type="text" name="nom">
-      </div>
-      <div class="cheese">
-        Prénom:
-        <input type="text" name="prenom">
-      </div>
-      <div class="onion"></div>
-      <div class="meatball">
-        <input type="radio" name="gender" value="Femme" checked> 
-          <label for="femme">Femme</label>
-        </div>
-      <div class="meatball">
-        <input type="radio" name="gender" value="Homme" checked> 
-          <label for="homme">Homme</label>
-      </div>
-      <div class="meatball">
-        <input type="radio" name="gender" value="Autre" checked> 
-          <label for="autre">Indéfini</label>
-      </div>
-      <div class="pickle"></div>
-      <div class="patty">
-        <textarea name="message" rows="10" cols="30">
-          Votre message.
-        </textarea> 
-      </div>
-      <div class="bun-bottom">
-        <input type="submit" value="Submit">
-        <p>Merci et à bientôt !</p>
+#### Gulp Tasks
 
-      </div>
-      <div class="plate">
-      </div>
-        </div>
-    </form>
+- `gulp` the default task that builds everything
+- `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
+- `gulp sass` compiles SCSS files into CSS
+- `gulp minify-css` minifies the compiled CSS file
+- `gulp minify-js` minifies the themes JS file
+- `gulp copy` copies dependencies from node_modules to the vendor directory
 
-</section>
+## Bugs and Issues
 
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-resume/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/resume/).
 
+## Custom Builds
 
- [Maquette de la prochaine version](https://wireframe.cc/xx1nDJ), sortie prévue fin octobre 2017.
+You can hire Start Bootstrap to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[custom design services page](https://startbootstrap.com/bootstrap-design-services/)**.
 
- <img src="maquette.png"> 
+## About
 
+Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
+* https://startbootstrap.com
+* https://twitter.com/SBootstrap
+
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+
+* http://davidmiller.io
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
