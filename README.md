@@ -1,5 +1,5 @@
-##ANNA CATHELINEAU##
+ANNA CATHELINEAU
 
-#Développeuse Web Fullstack PHP#
+Développeuse Web Fullstack PHP
 
-#CV - PORTFOLIO#
+CV - PORTFOLIO
